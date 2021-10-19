@@ -1,6 +1,6 @@
-<p align="center">
-<big>Machines Instructed in Learning Chemistry (MILC) IT</big>
-</p>
+<big><p align="center">
+Machines Instructed in Learning Chemistry (MILC) IT
+</p></big>
 
 <p align="center">
   <img src="imgs/MILK_IT.png" width="350" height="250"/>
@@ -21,8 +21,4 @@ The core idea is that we look beyond our own research areas and focus on how we�
 
 
 # Hackathon
-<details><summary>CLICK ME</summary>
-<p>
 Data analysis is best learned by trying it out and this of course means a Hackathon. If enough people are interested in learning/applying some type of method, we could schedule a day or a couple of hours where we play around with it.
-</p>
-</details>
