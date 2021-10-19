@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="imgs/MILK_IT.png" width="500" height="300"/>
+  <img src="imgs/MILK_IT.png" width="400" height="300"/>
 </p>
 
 # Introduction
