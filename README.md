@@ -1,4 +1,4 @@
-![logo](imgs/logo.png)
+![logo](imgs/MILK_IT.png)
 
 # Introduction
 Greetings fellow students and welcome to Machines Instructed in Learning Chemistry IT or MILC IT!
