@@ -1,6 +1,6 @@
-<big><p align="center">
+<h1 align="center">
 Machines Instructed in Learning Chemistry (MILC) IT
-</p></big>
+</h1>
 
 <p align="center">
   <img src="imgs/MILK_IT.png" width="350" height="250"/>
