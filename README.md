@@ -21,4 +21,8 @@ The core idea is that we look beyond our own research areas and focus on how weÂ
 
 
 # Hackathon
+<details><summary>CLICK ME</summary>
+<p>
 Data analysis is best learned by trying it out and this of course means a Hackathon. If enough people are interested in learning/applying some type of method, we could schedule a day or a couple of hours where we play around with it.
+</p>
+</details>
