@@ -1,4 +1,4 @@
-![logo](imgs/MILK_IT.png)
+# Machines Instructed in Learning Chemistry (MILC) IT
 
 <p align="center">
   <img src="imgs/MILK_IT.png" />
