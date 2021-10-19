@@ -1,9 +1,9 @@
 <p align="center">
-Machines Instructed in Learning Chemistry (MILC) IT
+<big>Machines Instructed in Learning Chemistry (MILC) IT</big>
 </p>
 
 <p align="center">
-  <img src="imgs/MILK_IT.png" />
+  <img src="imgs/MILK_IT.png" width="400" height="400"/>
 </p>
 
 # Introduction
