@@ -1,0 +1,5 @@
+"Conditions holds the experimental condition for:"
+"1. Batch no. (0/1)                              "
+"2. Light (0=light, 1=darkness)                  "
+"3. Packaging (0=polylactate, 1=polystyrene)     "
+"4. Storage time in days                         "
