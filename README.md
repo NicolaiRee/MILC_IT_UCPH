@@ -3,7 +3,7 @@ Machines Instructed in Learning Chemistry (MILC) IT
 </h1>
 
 <p align="center">
-  <img src="imgs/MILC_IT.png" width="350" height="250"/>
+  <img src="imgs/MILK_IT.png" width="350" height="250"/>
 </p>
 
 # Introduction
